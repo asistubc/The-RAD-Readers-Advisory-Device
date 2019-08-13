@@ -2,6 +2,8 @@
 
 The RAD (Readers' Advisory Device) was a project created by members of the [ASIS&T@UBC student organazation](https://blogs.ubc.ca/asist/). It used a Raspberry Pi computer and a receipt printer to print random book recommendations when people push a button.
 
+An updated version of this project can be found on GitHub at https://github.com/asistubc/RAD-Device-2-Buttons
+
 # Contents
 This repository contains:
 
