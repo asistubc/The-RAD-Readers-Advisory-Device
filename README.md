@@ -21,7 +21,7 @@ Download our code containing RADprinter1.py and copy into the py-thermal-printer
 * [Assorted blog posts](http://blogs.ubc.ca/asist/tag/raspberry-pi/)
 * Parham, K. E., Ferri, A. M., Fan, S. , Murray, M. P., Lahr, R. A., Grguric, E. , Swamiraj, M. and Meyers, E., "[Critical Making with a Raspberry Pi - Towards a Conceptualization of Librarians as Makers](http://blogs.ubc.ca/asist/files/2014/11/RAD-Poster.pdf),", ASIS&T Annual Meeting, November 2014 (Poster Presentation)
 * Parham, K. E., Ferri, A. M., Fan, S. , Murray, M. P., Lahr, R. A., Grguric, E. , Swamiraj, M. and Meyers, E., Critical making with a raspberry pi ‐ towards a conceptualization of librarians as makers. Proceedings of the Association for Information Science & Technology, 51: 1-4, April 2015. [doi:10.1002/meet.2014.14505101110](https://doi.org/10.1002/meet.2014.14505101110) (Article)
-* Murray, M, "[The Machine: Using a Raspberry Pi for Readers’ Advisory](https://whatareyoureadingblog.com/2014/05/22/the-machine-using-a-raspberry-pi-for-readers-advisory/)," What Are You Reading?, May 2014.
+* Murray, M, "[The Machine: Using a Raspberry Pi for Readers’ Advisory](https://whatareyoureadingblog.wordpress.com/2014/05/22/the-machine-using-a-raspberry-pi-for-readers-advisory/)," What Are You Reading?, May 2014.
 
 ## License
 [GNU General Public License v3.0](https://github.com/asistubc/RAD-device/blob/master/LICENSE)
